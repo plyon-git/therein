@@ -1,0 +1,3 @@
+# Core analytics and local server use the Python standard library.
+# Browser version pinned for reproducible installs; upgrade with the test suite.
+playwright==1.57.0
