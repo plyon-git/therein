@@ -1,0 +1,24 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.sqlite*
+*.db
+*.db-*
+browser-profile/
+settings.json
+instance.lock
+.env
+.env.*
+*.log
+Crash Round Research/
+.obsidian/
+.local-browsers/
+ms-playwright/
+dist/
+build/
+*.spec
+*.zip
+.DS_Store
+Thumbs.db
